@@ -162,7 +162,7 @@
     {
       "name": "SOURCE_REPOSITORY_URL",
       "description": "The URL of the repository with your application source code",
-      "value": "https://github.com/jiekang/oso-demo.git"
+      "value": "https://github.com/krishchow/oso-demo.git"
     },
     {
       "name": "SOURCE_REPOSITORY_REF",
